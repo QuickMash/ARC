@@ -1,2 +1,2 @@
 # ARC
-Automatic Reactor Control
+ARC is a reactor controller.
