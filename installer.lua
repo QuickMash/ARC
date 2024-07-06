@@ -1,4 +1,5 @@
 local downloadurl = "https://github.com/QuickMash/ARC/"
+local dependents = []
 print([[
 ░█████╗░██████╗░░█████╗░
 ██╔══██╗██╔══██╗██╔══██╗
